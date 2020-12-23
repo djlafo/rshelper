@@ -1,0 +1,9 @@
+c:\users\dylan\documents\visual studio 2015\Projects\RsHelper\RsHelper\bin\Release\RsHelper.exe.config
+c:\users\dylan\documents\visual studio 2015\Projects\RsHelper\RsHelper\bin\Release\RsHelper.exe
+c:\users\dylan\documents\visual studio 2015\Projects\RsHelper\RsHelper\bin\Release\RsHelper.pdb
+c:\users\dylan\documents\visual studio 2015\Projects\RsHelper\RsHelper\obj\Release\RsHelper.Form1.resources
+c:\users\dylan\documents\visual studio 2015\Projects\RsHelper\RsHelper\obj\Release\RsHelper.Properties.Resources.resources
+c:\users\dylan\documents\visual studio 2015\Projects\RsHelper\RsHelper\obj\Release\RsHelper.csproj.GenerateResource.Cache
+c:\users\dylan\documents\visual studio 2015\Projects\RsHelper\RsHelper\obj\Release\RsHelper.exe
+c:\users\dylan\documents\visual studio 2015\Projects\RsHelper\RsHelper\obj\Release\RsHelper.pdb
+C:\Users\Dylan\Documents\Visual Studio 2015\Projects\RsHelper\RsHelper\obj\Release\RsHelper.csprojResolveAssemblyReference.cache
